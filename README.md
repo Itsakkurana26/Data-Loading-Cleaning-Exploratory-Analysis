@@ -279,7 +279,7 @@ XGBoost
 
 
 
-git clone https://github.com/yourusername/titanic-eda.git
+git clone[ https://github.com/yourusername/titanic-eda.git](https://github.com/Itsakkurana26/Data-Loading-Cleaning-Exploratory-Analysis/tree/main)
 
 2. Install dependencies
 
